@@ -1,0 +1,8 @@
+Path ⇒　C:\Program Files\MySQL\MySQL Server 8.0\bin
+
+cmd画面で、以下のコマンドを実施する
+mysql -u dev -p
+
+create database wt;
+show databases;
+exit
